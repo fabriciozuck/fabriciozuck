@@ -19,6 +19,6 @@
 </div>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,laravel,linux,github,py,bash,html,css=light)](https://skillicons.de)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,linux,github,py,bash,html,css=light)](https://skillicons.de)
 
 
