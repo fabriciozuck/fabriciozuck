@@ -1,7 +1,7 @@
 ## Hello there! 👋
   
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
-<img align="right" width="300" src="![image](https://user-images.githubusercontent.com/44102615/214434009-994d150c-3537-4553-8507-97c9ba8c1e99.png)" />
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <p align="left"> 
   Hello there! I’m a programming, technology lover, software developer and <strong>brazilian</strong>.<br>
