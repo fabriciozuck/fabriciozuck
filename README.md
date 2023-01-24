@@ -4,8 +4,7 @@
 <img align="right" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e472hoaqmk7n6qpt5d6q8as61s47af426a68mbbl53h&rid=giphy.gif&ct=g" />
 
 <p align="left"> 
-  Hello there! I’m a programming, technology lover, software developer and <strong>brazilian</strong>.<br>
-  Focused on the <strong>JavaScript</strong> and <strong>TypeScript</strong> stack, always looking for solutions and knowledge to share with the Open-source world and collaborate with the entire Dev Community.
+  I am a programmer passionate about technology and always looking for new challenges. I have experience in several programming languages, including Java, Python and JavaScript, I am enthusiastic about new technologies and I always try to stay on top of the latest trends and news in the market. If you are interested in working together or simply want to know more about my projects, feel free to take a look at my Github and get in touch with me.
 </p>
 
 <!--
