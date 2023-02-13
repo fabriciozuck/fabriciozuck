@@ -1,10 +1,10 @@
 Hi 👋 My name is Fabrício Araújo
 ================================
 
-Desenvolverdor
+Developer
 --------------
 
-Apaixonado por tecnologia, formado em Análise em desenvolvimento de sistemas
+Passionate about technology, graduated in Systems Analysis and Development
 
 * 🌍  I'm based in Feira de Santana
 * ✉️  You can contact me at [fabriciozuck@gmail.com](mailto:fabriciozuck@gmail.com)
