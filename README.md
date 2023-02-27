@@ -1,5 +1,6 @@
 Hi 👋 My name is Fabrício Araújo
 ================================
+![](https://komarev.com/ghpvc/?username=fabriciozuck&color=green)
 
 Software Development
 --------------
