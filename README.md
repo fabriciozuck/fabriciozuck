@@ -1,4 +1,6 @@
 Hi 👋 My name is Fabrício Araújo
+
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?fabriciozuck" alt="" /></h2>
 ================================
 
 Developer
