@@ -1,9 +1,7 @@
 Hi 👋 My name is Fabrício Araújo
-
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?fabriciozuck" alt="" /></h2>
 ================================
 
-Developer
+Software Development
 --------------
 
 Passionate about technology, graduated in Systems Analysis and Development
